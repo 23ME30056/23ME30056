@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, Machine learning and Artificial intelligence
 - 🌱 I’m currently learning  coding , AI and ML
 - CONTACT  email --- nanoheist007@gmail.com
-- - 😄 Pronouns---- Mr Dolittle
+- - 😄 Pronouns---- He/Him
   
 
 <!---
