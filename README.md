@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Shaunak Majumdar, a first year undergraduate of department of mechanical engineering..
-- 👀 I’m interested in web development, Machine learning and Artificial intelligence
-- 🌱 I’m currently learning  coding , AI and ML
-- CONTACT  email --- nanoheist007@gmail.com
+- 👋 Hi, I’m Shaunak Majumdar, an undergraduate of department of mechanical engineering..
+- 👀 I’m interested in Machine Learning,Computer Vision , Artificial Intelligence and coding
+- 🌱 I’m currently learning  Computer Vision, AI and ML
+- CONTACT  email --- nanoheist007@gmail.com(mail for collaboration)
+- Lets CHANGE the world for a better future #betterlife........
 - - 😄 Pronouns---- He/Him
   
 
