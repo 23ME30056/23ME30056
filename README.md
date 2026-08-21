@@ -43,7 +43,7 @@ class Shaunak:
     def __init__(self):
         self.role      = "Undergraduate Researcher, Complex Networks Group"
         self.institute = "IIT Kharagpur · B.Tech + M.Tech (Mech) · CSE minor · AI micro-spec"
-        self.focus     = ["representation learning", "vision-language models",
+        self.focus     = ["world models", "vision-language models",
                           "self-supervised learning", "agentic AI systems"]
         self.question  = "How do machines represent the world?"
 
@@ -108,7 +108,7 @@ procedurally generated from math, then dissolved through a digit lattice</sub>
 
 Encoder-agnostic world models with sparse autoencoders and disentangled latents. Chasing part-level structure that emerges without labels.
 
-`JEPA` `SAE` `ViT` `Representation Learning`
+`JEPA` `SAE` `ViT` `WORLD MODELS`
 
 </td>
 <td width="50%" valign="top">
@@ -295,7 +295,7 @@ timeline
     title The Road So Far
     2024 : ML foundations : Classical ML : NLP : RAG systems
     2025 : Computer Vision : Self-Supervised Learning : DINOv2 : Qwen-VL : Multimodal AI
-    2026 : Representation Learning : Part-Centric JEPA : Multi-Agent AI : Efficient Retrieval
+    2026 : WORLD MODELS : Part-Centric JEPA : Multi-Agent AI : Efficient Retrieval
 ```
 
 <div align="center">
